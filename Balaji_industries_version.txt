@@ -1,5 +1,1 @@
-{
-"link": "https://raw.githubusercontent.com/vimal2102/OTA_2ND_TEST/main/firmware.bin",
-"Mandatory": true,
-"sw" :3.0
-}
+3.0
