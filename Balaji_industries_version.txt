@@ -1,5 +1,5 @@
 {
-"link": "https://raw.githubusercontent.com/vimal2102/OTA_2ND_TEST/main/firmware.bin",
+"link": "https://raw.githubusercontent.com/GleissonAlmeida/STM32-OTA/main/blink_5.bin",
 "Mandatory": true,
 "sw" :3.0
 }
